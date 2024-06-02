@@ -1,5 +1,4 @@
-Sure! Here's a draft for the `README.md` file for the GitHub repository `https://github.com/Francis-Mwaniki/DSA`.
-
+ GitHub repository `https://github.com/Francis-Mwaniki/DSA`.
 ---
 
 # Data Structures and Algorithms (DSA)
