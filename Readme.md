@@ -87,7 +87,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 If you have any questions, suggestions, or feedback, feel free to contact me:
 
 - GitHub: [Francis-Mwaniki](https://github.com/Francis-Mwaniki)
-- Email: francis.mwaniki630@gmail.com
+- Email: francismwaniki630@gmail.com
 
 Happy coding!
 
