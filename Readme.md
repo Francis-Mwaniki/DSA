@@ -24,7 +24,7 @@ Understanding data structures and algorithms is crucial for solving complex prog
 
 - Implementations of common data structures like arrays, linked lists, stacks, queues, trees, graphs, and hash tables.
 - Algorithms for sorting, searching, graph traversal, dynamic programming, and more.
-- Code examples in multiple programming languages, including Python, Java, C++, and JavaScript.
+- Code examples in multiple programming languages, including Java.
 - Well-documented code with explanations and usage examples.
 - Test cases for each data structure and algorithm to ensure correctness.
 
