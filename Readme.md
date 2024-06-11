@@ -51,18 +51,18 @@ Each data structure and algorithm implementation comes with a detailed README fi
 
 ### Example
 
-Here's a simple example of how to run a Python script to test a data structure implementation:
+Here's a simple example of how to run a Java script to test a data structure implementation:
 
 1. Navigate to the Python directory:
 
     ```bash
-    cd DSA/Python
+    cd DSA/Java
     ```
 
 2. Run the script:
 
     ```bash
-    python test_linked_list.py
+    java test_linked_list.py
     ```
 
 Replace `test_linked_list.py` with the name of the script you want to run.
