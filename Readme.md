@@ -59,13 +59,6 @@ Here's a simple example of how to run a Java script to test a data structure imp
     cd DSA/Java
     ```
 
-2. Run the script:
-
-    ```bash
-    java test_linked_list.py
-    ```
-
-Replace `test_linked_list.py` with the name of the script you want to run.
 
 ## Contributing
 
