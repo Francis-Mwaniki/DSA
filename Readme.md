@@ -53,7 +53,7 @@ Each data structure and algorithm implementation comes with a detailed README fi
 
 Here's a simple example of how to run a Java script to test a data structure implementation:
 
-1. Navigate to the Python directory:
+1. Navigate to the Java directory:
 
     ```bash
     cd DSA/Java
